@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @L1n111ya.
+- 👋 Hi, I’m @yilin.
 - 👀 I’m interested in Physics, Psychology, Computer Science, Artificial Intelligence and Information Security.
 - 🌱 I’m currently learning Computer Science, Artificial Intelligence and Privacy Protection.
 - 📫 My E-mail: L1n111ya@163.com.
